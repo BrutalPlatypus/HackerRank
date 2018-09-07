@@ -15,7 +15,7 @@ public class QueensAttackII {
 
             Input:
             n k
-            r[q] r[c]
+            r[q] c[q]
             r[i] c[i] (appears n times)
 
             A cell can have more than one obstacle, but there will never be an obstacle located at the queen's position
